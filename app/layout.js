@@ -1,0 +1,67 @@
+import { Geist, Geist_Mono } from "next/font/google";
+import "./globals.css";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+
+const geistSans = Geist({
+  variable: "--font-geist-sans",
+  subsets: ["latin"],
+});
+
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
+
+export const metadata = {
+  metadataBase: new URL("https://www.p999gamepk.pk"),
+  keywords: ["p999, p999 game Download, p 999, p999 apk, p999 download"],
+  title: {
+    default: "P999 Game Download APK New Real Earning APP In Pakistan",
+    template: "%s | p999",
+  },
+  description:
+    "P999 Game App is best and well-known casino that combines fun, entertainment, and earning opportunities in one place.",
+  openGraph: {
+    description: "p999 is the best and top game app in pakistan",
+    url: "https://www.P999gamepk.pk",
+    images: ["https://www.P999gamepk.pk/Images/p999.webp"],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@yourtwitterhandle",
+    description: "p999  Game Download win real money apk today 2025",
+    images: ["https://www.P999gamepk.pk.com/Images/p999.webp"],
+  },
+  alternates: {
+    canonical: "https://www.P999gamepk.pk",
+  },
+};
+
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
+export default function RootLayout({ children }) {
+  return (
+    <html lang="en">
+      <head>
+        <meta name="robots" content="index, follow" />
+        <meta
+          name="google-site-verification"
+          content="yoCxjn7ZfF5wK36WsX209Ms6IXdTM9BWipEJ0R5SH9o"
+        />
+        <link rel="icon" href="/favicon.ico" />
+      </head>
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} antialiased  bg-[#010101]`}
+        cz-shortcut-listen="true"
+      >
+        <Navbar />
+        {children}
+        <Footer />
+      </body>
+    </html>
+  );
+}
