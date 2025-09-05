@@ -50,8 +50,8 @@ const features = [
 const Features = () => {
   return (
     <section className="py-16  text-white px-6 md:px-12">
-      <div className="max-w-7xl mx-auto">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-white">
+      <div className="max-w-5xl mx-auto">
+        <h2 className="text-3xl md:text-4xl font-bold text-center mb-12  text-green-500">
           Key Features of P999 Game Download APK Earning App
         </h2>
 

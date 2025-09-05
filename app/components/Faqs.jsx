@@ -3,8 +3,8 @@ import React from "react";
 const Faqs = () => {
   return (
     <section className=" mb-20 w-full text-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold   text-center mb-12">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 className="md:text-4xl text-3xl text-green-500 font-bold   text-center mb-12">
           Frequently Asked Questions (FAQs)
         </h2>
         <div className="space-y-4">

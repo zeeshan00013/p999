@@ -26,7 +26,7 @@ export default function Home() {
       <section className="">
         <div className="max-w-7xl mx-auto flex flex-col text-center items-center justify-between gap-10 p-5 px-6">
           <div className="flex-1 max-w-3xl">
-            <h1 className="text-3xl  md:text-5xl leading-tight mb-6">
+            <h1 className="text-3xl  md:text-5xl leading-tight mb-6 text-green-500">
               P999 Game Download APK New Real Earning APP In Pakistan{" "}
             </h1>
             <p className="text-lg ">
@@ -76,7 +76,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="text-white max-w-7xl mx-auto px-6">
+      <section className="text-white max-w-5xl text-center mx-auto px-6">
         <p className="text-lg">
           In addition, P999 Game Download APK is easy to install and works
           smoothly on Android and iOS devices. It is also built with
@@ -93,9 +93,9 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="text-white max-w-7xl mx-auto px-6">
-        <div className=" flex flex-col items-center justify-center text-start mt-6 space-y-4  px-6">
-          <h2 className="text-3xl  font-semibold md:text-4xl leading-13">
+      <section className="text-white max-w-5xl mx-auto px-6">
+        <div className=" flex flex-col items-center justify-center  text-center mt-6 space-y-4  px-6">
+          <h2 className="text-3xl  font-semibold md:text-4xl leading-13  text-green-500">
             What is P999 Game APK?
           </h2>
           <p className="md:text-xl ">

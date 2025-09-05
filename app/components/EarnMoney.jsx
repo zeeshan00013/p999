@@ -36,8 +36,8 @@ const strategies = [
 
 const EarnMoney = () => {
   return (
-    <div className=" text-white p-6 rounded-lg max-w-6xl w-full mx-auto">
-      <h2 className="text-2xl font-bold mb-6 text-center text-white ">
+    <div className=" text-white p-6 rounded-lg max-w-5xl w-full mx-auto">
+      <h2 className="md:text-4xl text-3xl text-green-500 font-bold mb-6 text-center  ">
         Smart Strategies for Winning Big on P999 Game App
       </h2>
 

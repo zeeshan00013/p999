@@ -39,8 +39,8 @@ const popularGames = [
 
 const PopularGames = () => {
   return (
-    <div className=" text-white p-6 rounded-lg max-w-6xl mx-auto">
-      <h2 className="text-2xl font-bold mb-6 text-center">
+    <div className=" text-white p-6 rounded-lg max-w-5xl mx-auto">
+      <h2 className="md:text-4xl text-3xl text-green-500 font-bold mb-6 text-center  ">
         Top and Popular Game List of P999 Game APK
       </h2>
       <p className="mb-8 text-center">

@@ -43,10 +43,10 @@ const HowToPlay = () => {
     },
   ];
   return (
-    <div className="text-white p-6 rounded-lg max-w-6xl w-full mx-auto">
+    <div className="text-white p-6 rounded-lg max-w-5xl w-full mx-auto">
       {sections.map((section, index) => (
         <div key={index} className="mb-10">
-          <h2 className="text-xl font-bold text-green-600 mb-4">
+          <h2 className=" font-bold md:text-4xl text-2xl text-green-500 mb-4">
             {section.title}
           </h2>
           <ol className="list-decimal list-inside space-y-2 pl-2">

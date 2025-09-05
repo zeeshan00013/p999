@@ -54,8 +54,8 @@ const bonusItems = [
 
 const BonusesAndEarnings = () => {
   return (
-    <div className=" text-white p-6 rounded-lg max-w-6xl mx-auto w-full">
-      <h2 className="text-2xl font-bold mb-6 text-center">
+    <div className=" text-white p-6 rounded-lg max-w-5xl mx-auto w-full">
+      <h2 className="md:text-4xl text-3xl text-green-500 font-bold mb-6 text-center">
         Best Bonuses and Earning Opportunities of P999 Game Download App
       </h2>
 

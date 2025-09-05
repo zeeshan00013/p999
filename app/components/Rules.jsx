@@ -3,8 +3,8 @@ import React from "react";
 const Rules = () => {
   return (
     <section className=" mt-10 w-full">
-      <div className="max-w-7xl mx-auto text-start px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold text-white   mt-6 mb-4">
+      <div className="max-w-5xl mx-auto text-start px-4 sm:px-6 lg:px-8">
+        <h2 className="md:text-4xl text-3xl text-green-500 font-bold    mt-6 mb-4">
           Reviews on P999 Game Online:
         </h2>
         <div>
@@ -26,8 +26,8 @@ const Rules = () => {
           </p>
         </div>
       </div>
-      <div className="max-w-7xl mx-auto text-start px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold text-white   mt-6 mb-4">
+      <div className="max-w-5xl mx-auto text-start px-4 sm:px-6 lg:px-8">
+        <h2 className="md:text-4xl text-3xl text-green-500 font-bold    mt-6 mb-4">
           Why p999 Game is trending and popular in Pakistan?
         </h2>
         <div>
@@ -43,8 +43,8 @@ const Rules = () => {
           </p>
         </div>
       </div>
-      <div className="max-w-7xl mx-auto text-start px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold text-white  mt-6 mb-4">
+      <div className="max-w-5xl mx-auto text-start px-4 sm:px-6 lg:px-8">
+        <h2 className="md:text-4xl text-3xl text-green-500 font-bold   mt-6 mb-4">
           Is the P999 Game Safe for Use?
         </h2>
         <div>
