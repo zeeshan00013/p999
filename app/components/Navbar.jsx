@@ -7,11 +7,11 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="bg-[#5e5e5eed] sticky top-0 z-50">
+    <header className="bg-green-500  ">
       <nav className="container mx-auto px-4 md:px-10 flex items-center justify-between py-5">
         <div className="text-xl font-bold text-[#f0c059c5]">
           <Link href="/">
-            <p className="text-4xl font-bold text-green-500">P999</p>
+            <p className="text-4xl font-bold text-white">P999</p>
           </Link>
         </div>
 
