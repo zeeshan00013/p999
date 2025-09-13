@@ -50,7 +50,7 @@ export default function RootLayout({ children }) {
         <meta name="robots" content="index, follow" />
         <meta
           name="google-site-verification"
-          content="yoCxjn7ZfF5wK36WsX209Ms6IXdTM9BWipEJ0R5SH9o"
+          content="ri1ib-_5-rZbimw83LJmDVXyi3EQC3TkA39mkTut9Uc"
         />
         <link rel="icon" href="/favicon.ico" />
       </head>
