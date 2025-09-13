@@ -10,7 +10,7 @@ const Faqs = () => {
         <div className="space-y-4">
           <details className="bg-[#0e893b] p-4 rounded-lg shadow-md">
             <summary className="text-lg font-semibold  cursor-pointer">
-              What is the minimum deposit amount P999 Game App?
+              What is the minimum deposit amount W567 Game App?
             </summary>
             <p className=" mt-2">
               The minimum deposit amount depends on the payment method you

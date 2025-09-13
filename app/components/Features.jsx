@@ -18,7 +18,7 @@ const features = [
   {
     title: "Easy Navigation",
     description:
-      "The P999 Game app interface is simple and user-friendly. Clear buttons and well-arranged categories help even first-time users navigate easily and start playing quickly.",
+      "The W567 Game app interface is simple and user-friendly. Clear buttons and well-arranged categories help even first-time users navigate easily and start playing quickly.",
   },
   {
     title: "Secure Payments",
@@ -52,7 +52,7 @@ const Features = () => {
     <section className="py-16  text-white px-6 md:px-12">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12  text-green-500">
-          Key Features of P999 Game Download APK Earning App
+          Key Features of W567 Game Download APK Earning App
         </h2>
 
         <div className="grid gap-8 grid-cols-1 ">

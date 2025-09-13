@@ -9,7 +9,7 @@ const Conclusion = () => {
           Conclusion
         </h2>
         <p className="text-lg mb-1">
-          P999 Game Download APK is more than just a gaming app—it’s a complete
+          W 567 Game Download APK is more than just a gaming app—it’s a complete
           entertainment and earning platform designed for Pakistani players.
           With its wide variety of games, secure payments, quick rewards, and
           user-friendly interface, it has everything a player needs. The bonuses

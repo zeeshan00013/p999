@@ -1,5 +1,5 @@
 export async function GET() {
-  const baseUrl = "https://www.P999gamepk.pk";
+  const baseUrl = "https://www.w567game.cc";
   const staticRoutes = [""];
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>

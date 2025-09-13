@@ -1,29 +1,21 @@
 "use client";
 import { useState, useEffect } from "react";
 import Image from "next/image";
-import lucky1011 from "../Images/p9991.webp";
-import lucky1012 from "../Images/p9992.webp";
-import lucky1013 from "../Images/p9993.webp";
-import lucky1014 from "../Images/p9994.webp";
-import lucky1015 from "../Images/p9995.webp";
-import lucky1016 from "../Images/p9996.webp";
-import lucky1017 from "../Images/p9997.webp";
-import lucky1018 from "../Images/p9998.webp";
-import lucky1019 from "../Images/p9999.webp";
+import lucky1011 from "../Images/w1.webp";
+import lucky1012 from "../Images/w2.webp";
+import lucky1013 from "../Images/w3.webp";
+import lucky1014 from "../Images/w4.webp";
+import lucky1015 from "../Images/w5.webp";
 
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 export default function CustomCarousel() {
   const images = [
-    { src: lucky1011, alt: "p999 app " },
-    { src: lucky1012, alt: "p999 download" },
-    { src: lucky1013, alt: "p999 apk " },
-    { src: lucky1014, alt: "p999  new app" },
-    { src: lucky1015, alt: "p999  game" },
-    { src: lucky1016, alt: "p999  game apk" },
-    { src: lucky1017, alt: "p999  " },
-    { src: lucky1018, alt: "p999 new game" },
-    { src: lucky1019, alt: "p999  apk download" },
+    { src: lucky1011, alt: "W567 app " },
+    { src: lucky1012, alt: "W567 download" },
+    { src: lucky1013, alt: "W567 apk " },
+    { src: lucky1014, alt: "W567  new app" },
+    { src: lucky1015, alt: "W567  game" },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);

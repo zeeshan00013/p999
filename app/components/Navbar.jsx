@@ -11,7 +11,7 @@ export default function Navbar() {
       <nav className="container mx-auto px-4 md:px-10 flex items-center justify-between py-5">
         <div className="text-xl font-bold text-[#f0c059c5]">
           <Link href="/">
-            <p className="text-4xl font-bold text-white">P999</p>
+            <p className="text-4xl font-bold text-white">W567</p>
           </Link>
         </div>
 

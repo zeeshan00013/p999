@@ -51,7 +51,7 @@ const Benifit = () => {
     <section className="py-16  text-white px-6  max-w-5xl mx-auto  w-full">
       <div className="  flex flex-col items-center justify-center">
         <h2 className="text-3xl md:text-4xl font-bold text-center  text-green-500 mb-12">
-          P999 Game APP Additional Cool Benefits:
+          W567 Game APP Additional Cool Benefits:
         </h2>
 
         <div className="space-y-10">

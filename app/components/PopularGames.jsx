@@ -41,10 +41,10 @@ const PopularGames = () => {
   return (
     <div className=" text-white p-6 rounded-lg max-w-5xl mx-auto">
       <h2 className="md:text-4xl text-3xl text-green-500 font-bold mb-6 text-center  ">
-        Top and Popular Game List of P999 Game APK
+        Top and Popular Game List of W567 Game APK
       </h2>
       <p className="mb-8 text-center">
-        P999 has a rich collection of games that suits every type of player. It
+        W567 has a rich collection of games that suits every type of player. It
         offers variety under different categories, ensuring players have
         multiple choices. Following are some of its popular categories available
         here.

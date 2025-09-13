@@ -5,7 +5,7 @@ import React from "react";
 const HowToPlay = () => {
   const sections = [
     {
-      title: "P999 Game Download and Installation for Android",
+      title: "W567 Game Download and Installation for Android",
       steps: [
         "Open your mobile browser and search for the app.",
         "Look for the download link for the Android app.",
@@ -18,7 +18,7 @@ const HowToPlay = () => {
       ],
     },
     {
-      title: "P999 Game Account Creation Steps",
+      title: "W567 Game Account Creation Steps",
       steps: [
         "Open the app after downloading it on your Android or iOS device.",
         "Tap on the 'Register' or 'Sign Up' button on the home screen.",
@@ -30,7 +30,7 @@ const HowToPlay = () => {
       ],
     },
     {
-      title: "P999 Game Login Guide",
+      title: "W567 Game Login Guide",
       steps: [
         "Open the app on your device.",
         "Tap on the 'Login' option.",

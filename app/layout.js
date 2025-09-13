@@ -14,28 +14,28 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://www.p999gamepk.pk"),
-  keywords: ["p999, p999 game Download, p 999, p999 apk, p999 download"],
+  metadataBase: new URL("https://www.w567game.cc"),
+  keywords: ["W567, W567 game Download, W 567, W567 apk,  W 567 download"],
   title: {
-    default: "P999 Game Download APK New Real Earning APP In Pakistan",
-    template: "%s | p999",
+    default: "W567 Game Download APK New Real Earning APP In Pakistan",
+    template: "%s | W567",
   },
   description:
-    "P999 Game App is best and well-known casino that combines fun, entertainment, and earning opportunities in one place.",
+    "W567 Game - Play exciting games and earn real cash. Now available for users in Pakistan. Download and start earning today!",
   openGraph: {
-    description: "p999 is the best and top game app in pakistan",
+    description: "W567 is the best and top game app in pakistan",
     url: "https://www.P999gamepk.pk",
-    images: ["https://www.P999gamepk.pk/Images/p999.webp"],
+    images: ["https://www.P999gamepk.pk/Images/sn.webp"],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     site: "@yourtwitterhandle",
-    description: "p999  Game Download win real money apk today 2025",
-    images: ["https://www.P999gamepk.pk.com/Images/p999.webp"],
+    description: "W567  Game Download win real money apk today 2025",
+    images: ["https://www.w567game.cc/Images/sn.webp"],
   },
   alternates: {
-    canonical: "https://www.P999gamepk.pk",
+    canonical: "https://www.w567game.cc",
   },
 };
 

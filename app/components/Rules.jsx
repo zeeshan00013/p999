@@ -5,12 +5,12 @@ const Rules = () => {
     <section className=" mt-10 w-full">
       <div className="max-w-5xl mx-auto text-start px-4 sm:px-6 lg:px-8">
         <h2 className="md:text-4xl text-3xl text-green-500 font-bold    mt-6 mb-4">
-          Reviews on P999 Game Online:
+          Reviews on W567 Game Online:
         </h2>
         <div>
           <p className="text-lg">
             Many players in Pakistan appreciate it for its wide game collection
-            and quick earning opportunities. P999 Game Download app is smooth,
+            and quick earning opportunities. W567 Game Download app is smooth,
             easy to navigate, and does not confuse new users with complicated
             menus. Features like daily bonuses, welcome rewards, and loyalty
             programs add extra excitement for regular players. Overall, it gives
@@ -28,7 +28,7 @@ const Rules = () => {
       </div>
       <div className="max-w-5xl mx-auto text-start px-4 sm:px-6 lg:px-8">
         <h2 className="md:text-4xl text-3xl text-green-500 font-bold    mt-6 mb-4">
-          Why p999 Game is trending and popular in Pakistan?
+          Why W567 Game is trending and popular in Pakistan?
         </h2>
         <div>
           <p className="text-lg">
@@ -45,11 +45,11 @@ const Rules = () => {
       </div>
       <div className="max-w-5xl mx-auto text-start px-4 sm:px-6 lg:px-8">
         <h2 className="md:text-4xl text-3xl text-green-500 font-bold   mt-6 mb-4">
-          Is the P999 Game Safe for Use?
+          Is the W567 Game Safe for Use?
         </h2>
         <div>
           <p className="text-lg">
-            Yes, the P999 game is completely safe for use. It uses advanced
+            Yes, the W567 game is completely safe for use. It uses advanced
             encryption to protect both player data and transactions. All
             payments are processed through secure channels, ensuring that your
             money is handled with care. Additionally, it also promotes fair play

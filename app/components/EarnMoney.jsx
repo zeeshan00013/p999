@@ -38,7 +38,7 @@ const EarnMoney = () => {
   return (
     <div className=" text-white p-6 rounded-lg max-w-5xl w-full mx-auto">
       <h2 className="md:text-4xl text-3xl text-green-500 font-bold mb-6 text-center  ">
-        Smart Strategies for Winning Big on P999 Game App
+        Smart Strategies for Winning Big on W567 Game App
       </h2>
 
       <ul className="space-y-4">
