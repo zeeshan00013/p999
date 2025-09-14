@@ -95,7 +95,7 @@ export default function AboutPage() {
           </li>
           <li>
             <span className="text-green-500 font-semibold">Email:</span>{" "}
-            admin05@gmail.com
+            adminw567@gmail.com
           </li>
           <li>
             <span className="text-green-500 font-semibold">Facebook:</span> Not
