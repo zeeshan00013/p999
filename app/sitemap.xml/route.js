@@ -1,6 +1,6 @@
 export async function GET() {
   const baseUrl = "https://www.w567game.cc";
-  const staticRoutes = ["", "login"];
+  const staticRoutes = ["", "login", "terms-and-conditions"];
 
   const routes = [...staticRoutes];
 
