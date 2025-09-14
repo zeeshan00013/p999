@@ -10,7 +10,7 @@ export default function Footer() {
         <div className=" hidden md:block">
           <ul className="flex gap-3">
             <li className="underline">
-              <Link href={"/terms-and-conditions"}>About</Link>
+              <Link href={"/about-us"}>About</Link>
             </li>{" "}
             <li className="underline">
               <Link href={"/privacy-policy"}>Privacy</Link>
