@@ -1,4 +1,4 @@
-import { getAllBlogs } from "@/lib/blogs";
+import { getAllBlogs } from "../../lib/blog";
 
 export async function GET() {
   const baseUrl = "https://www.w567game.cc";
