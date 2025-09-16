@@ -15,14 +15,14 @@ export const metadata = {
     locale: "en_US",
     type: "website",
   },
+  alternates: {
+    canonical: "https://www.w567game.c/about-us",
+  },
 };
 
 export default function AboutPage() {
   return (
     <>
-      <Head>
-        <link rel="canonical" href="https://www.w567game.cc/about-us" />
-      </Head>
       <div className="bg-black text-white px-6 py-10 md:px-20 lg:px-40">
         <h1 className="text-green-500 text-3xl md:text-4xl font-bold mb-8">
           About Us | W567 Game
