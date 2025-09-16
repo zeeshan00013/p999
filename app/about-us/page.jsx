@@ -1,5 +1,4 @@
 import { DownloadIcon } from "lucide-react";
-import Head from "next/head";
 
 export const metadata = {
   title: "About Us | W567 Game",
