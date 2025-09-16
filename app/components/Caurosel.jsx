@@ -14,8 +14,8 @@ export default function CustomCarousel() {
     { src: lucky1011, alt: "W567 app " },
     { src: lucky1012, alt: "W567 download" },
     { src: lucky1013, alt: "W567 apk " },
-    { src: lucky1014, alt: "W567  new app" },
-    { src: lucky1015, alt: "W567  game" },
+    { src: lucky1014, alt: "W567 new app" },
+    { src: lucky1015, alt: "W567 game" },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
