@@ -1,5 +1,6 @@
 // app/about/page.jsx
 import { DownloadIcon } from "lucide-react";
+import Head from "next/head";
 
 export const metadata = {
   title: "About Us | W567 Game",
@@ -10,7 +11,7 @@ export const metadata = {
   openGraph: {
     title: "Terms & Conditions | W567 Game",
     description: "About us page tell you who we are w567game",
-    url: "https://w567game.cc/terms",
+    url: "https://www.w567game.cc/about-us",
     siteName: "W567 Game",
     locale: "en_US",
     type: "website",
@@ -20,6 +21,9 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <div className="bg-black text-white px-6 py-10 md:px-20 lg:px-40">
+      <Head>
+        <link rel="canonical" href="https://www.w567game.cc/about-us" />
+      </Head>
       <h1 className="text-green-500 text-3xl md:text-4xl font-bold mb-8">
         About Us | W567 Game
       </h1>
