@@ -2,8 +2,29 @@ import { getAllBlogs } from "@/lib/blog";
 import Link from "next/link";
 
 export const metadata = {
-  title: "W567 Game Blog",
-  description: "All guides and tutorials for W567 Game.",
+  title: "Blog | W567 Game",
+  description:
+    "Read the latest blog posts from W567 Game covering updates, guides, and insights into online gaming and casino experiences.",
+  keywords: [
+    "W567 blog",
+    "W567 Game news",
+    "casino tips",
+    "online gaming updates",
+    "Pakistan gaming blog",
+  ],
+  robots: "index, follow",
+  openGraph: {
+    title: "Blog | W567 Game",
+    description:
+      "Stay updated with the latest articles and insights from W567 Game. Discover gaming tips, updates, and news.",
+    url: "https://www.w567game.cc/blog",
+    siteName: "W567 Game",
+    locale: "en_US",
+    type: "website",
+  },
+  alternates: {
+    canonical: "https://www.w567game.cc/blog",
+  },
 };
 
 export default function BlogListPage() {

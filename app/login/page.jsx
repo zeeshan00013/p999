@@ -1,5 +1,31 @@
 import React from "react";
-
+export const metadata = {
+  title: "W567 Game APK - Login & Registration Guide | W567Game.cc",
+  description:
+    "Step-by-step guide to register and log in to W567 Game. Learn how to create your account, login securely, and start playing your favorite online casino games.",
+  keywords: [
+    "W567 login",
+    "W567 register",
+    "W567 Game APK",
+    "W567 game guide",
+    "how to register W567",
+    "how to login W567Game",
+    "W567Game.cc",
+  ],
+  robots: "index, follow",
+  openGraph: {
+    title: "W567 Game APK - Login & Registration Guide",
+    description:
+      "Learn how to download the W567 APK, register your account, and start enjoying real earning games. Full login and registration tutorial.",
+    url: "https://www.w567game.cc/login",
+    siteName: "W567 Game",
+    locale: "en_US",
+    type: "website",
+  },
+  alternates: {
+    canonical: "https://www.w567game.cc/login",
+  },
+};
 export default function page() {
   return (
     <div className="min-h-screen bg-black text-white py-10 px-6 md:px-20">
