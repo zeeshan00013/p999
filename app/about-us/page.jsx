@@ -1,4 +1,5 @@
 // app/about/page.jsx
+import { DownloadIcon } from "lucide-react";
 
 export const metadata = {
   title: "About Us | W567 Game",
@@ -22,7 +23,14 @@ export default function AboutPage() {
       <h1 className="text-green-500 text-3xl md:text-4xl font-bold mb-8">
         About Us | W567 Game
       </h1>
-
+      <Section>
+        <a
+          href="https://w567.game/?dl=ebhwd6"
+          className="inline-flex items-center justify-center bg-green-600 hover:bg-emerald-700 text-white text-lg font-semibold px-8 py-3 rounded-md shadow-md transition mt-5 gap-2 w-full"
+        >
+          DOWNLOAD <DownloadIcon />
+        </a>
+      </Section>
       <Section title="Welcome to W567 Game">
         <p>
           Hello and welcome! We’re thrilled to have you here and appreciate your
