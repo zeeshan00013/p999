@@ -1,4 +1,3 @@
-// app/about/page.jsx
 import { DownloadIcon } from "lucide-react";
 import Head from "next/head";
 
