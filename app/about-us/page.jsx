@@ -15,7 +15,7 @@ export const metadata = {
     type: "website",
   },
   alternates: {
-    canonical: "https://www.w567game.c/about-us",
+    canonical: "https://www.w567game.cc/about-us",
   },
 };
 
