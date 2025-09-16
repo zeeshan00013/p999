@@ -79,6 +79,23 @@ export default function CustomCarousel() {
           ))}
         </div>
       </div>
+      <div>
+        <h3 className="text-xl font-bold mt-6">User Reviews:</h3>
+        <div className=" p-4 my-2 rounded">
+          ⭐⭐⭐⭐⭐
+          <p>
+            <strong>Adeel R.</strong> – "Smooth and fast withdrawals! My fav
+            earning app."
+          </p>
+        </div>
+        <div className=" p-4 my-2 rounded">
+          ⭐⭐⭐⭐☆
+          <p>
+            <strong>Sana K.</strong> – "Great game variety. Especially love the
+            Aviator mode."
+          </p>
+        </div>
+      </div>
     </section>
   );
 }
