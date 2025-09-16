@@ -8,7 +8,7 @@ export const metadata = {
   keywords: ["w567 about", "conditions", "W567 Game", "legal Info"],
   robots: "index, follow",
   openGraph: {
-    title: "Terms & Conditions | W567 Game",
+    title: "About Us | W567 Game",
     description: "About us page tell you who we are w567game",
     url: "https://www.w567game.cc/about-us",
     siteName: "W567 Game",
