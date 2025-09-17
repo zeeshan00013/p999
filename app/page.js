@@ -27,7 +27,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto flex flex-col text-center items-center justify-between gap-10 p-5 px-6">
           <div className="flex-1 max-w-3xl">
             <h1 className="text-3xl  md:text-5xl leading-tight mb-6 text-green-500">
-              W567 Game Download APK Best Real Earning APP In Pakistan{" "}
+              W567 Game Download APK - New Real Earning APK Pakistan{" "}
             </h1>
             <p className="text-lg ">
               W567 game is one of the newest and latest casino apps for players
