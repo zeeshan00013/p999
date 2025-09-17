@@ -125,8 +125,8 @@ export default function Home() {
             Having Trouble with W567 Game? Here’s How to Fix It
           </h2>
           <p className="text-lg mt-4">
-            If you're experiencing performance issues while playing{" "}
-            <strong>W567 Game</strong>, you're not alone. Below are the most
+            If youre experiencing performance issues while playing{" "}
+            <strong>W567 Game</strong>, youre not alone. Below are the most
             frequent problems users face — and the steps to solve them quickly.
           </p>
         </div>
@@ -159,8 +159,8 @@ export default function Home() {
             ❄️ Issue: Game Freezes or Shuts Down Unexpectedly
           </h3>
           <p className="mb-2">
-            Does your W567 Game app crash suddenly or freeze mid-game? Here's
-            how to stabilize it.
+            Does your W567 Game app crash suddenly or freeze mid-game? Heres how
+            to stabilize it.
           </p>
           <h4 className="text-green-400 font-semibold mb-1">💡 How to Fix:</h4>
           <ul className="list-disc list-inside space-y-1">
