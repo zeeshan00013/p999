@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import Image from "next/image";
-import BetBanner from "../public/sn.webp";
+import BetBanner from "../public/w567game.webp";
 import Features from "./components/Features";
 import Carousel from "./components/Caurosel";
 import Conclusion from "./components/Conclusion";
@@ -89,7 +89,7 @@ export default function Home() {
       </section>
       <section className="flex items-center justify-center">
         <div>
-          <Image src={BetBanner} alt="W567 game download" width={900} />
+          <Image src={BetBanner} alt="Download W567 Game" width={900} />
         </div>
       </section>
 
@@ -119,6 +119,68 @@ export default function Home() {
           </p>
         </div>
       </section>
+      <section className="text-white max-w-5xl mx-auto px-6 mt-10">
+        <div className="text-center mb-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-green-500">
+            Having Trouble with W567 Game? Here’s How to Fix It
+          </h2>
+          <p className="text-lg mt-4">
+            If you're experiencing performance issues while playing{" "}
+            <strong>W567 Game</strong>, you're not alone. Below are the most
+            frequent problems users face — and the steps to solve them quickly.
+          </p>
+        </div>
+
+        {/* Issue 1 */}
+        <div className="bg-green-900 rounded-lg p-6 mb-6 shadow-md">
+          <h3 className="text-xl font-semibold text-green-300 mb-2">
+            🐢 Issue: Game Runs Slowly or Lags
+          </h3>
+          <p className="mb-2">
+            Is W567 Game feeling sluggish or skipping frames during gameplay?
+            This can take the fun out of your experience.
+          </p>
+          <h4 className="text-green-400 font-semibold mb-1">💡 How to Fix:</h4>
+          <ul className="list-disc list-inside space-y-1">
+            <li>Close all background apps to free up RAM and CPU.</li>
+            <li>Lower the in-game graphics settings to improve performance.</li>
+            <li>
+              Switch to a stable and fast Wi-Fi or mobile data connection.
+            </li>
+            <li>
+              Use a phone cleaning tool to remove junk files and optimize device
+              speed.
+            </li>
+          </ul>
+        </div>
+
+        <div className="bg-green-900 rounded-lg p-6 mb-6 shadow-md">
+          <h3 className="text-xl font-semibold text-green-300 mb-2">
+            ❄️ Issue: Game Freezes or Shuts Down Unexpectedly
+          </h3>
+          <p className="mb-2">
+            Does your W567 Game app crash suddenly or freeze mid-game? Here's
+            how to stabilize it.
+          </p>
+          <h4 className="text-green-400 font-semibold mb-1">💡 How to Fix:</h4>
+          <ul className="list-disc list-inside space-y-1">
+            <li>
+              Install the latest version of W567 Game from the official site to
+              ensure bug fixes.
+            </li>
+            <li>Clear the app’s cache from your phone’s app settings.</li>
+            <li>
+              Reboot your device to refresh system memory and background
+              processes.
+            </li>
+            <li>
+              Make sure your device has enough internal storage (at least 1GB
+              free space recommended).
+            </li>
+          </ul>
+        </div>
+      </section>
+
       <Features />
       <Carousel />
 

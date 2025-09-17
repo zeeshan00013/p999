@@ -15,24 +15,35 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   metadataBase: new URL("https://www.w567game.cc"),
-  keywords: ["W567, W567 game Download, W 567, W567 apk,  W 567 download"],
   title: {
-    default: "W567 Game Download APK New Real Earning APP In Pakistan",
-    template: "%s | W567",
+    default: "Download W567 Game APK – Real Cash App pakistan 2025",
+    template: "%s | W567 Game",
   },
   description:
-    "W567 Game - Play exciting games and earn real cash. Now available for users in Pakistan. Download and start earning today!",
+    "Download the W567 Game APK – Pakistan’s top real-money casino app. Enjoy slots, cards & more. Safe, fast, and 100% secure earning experience.",
+  keywords: [
+    "W567 Game",
+    "W567 APK Download",
+    "W567 Casino App",
+    "Earn Money Online Pakistan",
+    "Real Money Game 2025",
+    "Google best Money Game 2025",
+  ],
   openGraph: {
-    description: "W567 is the best and top game app in pakistan",
-    url: "https://www.P999gamepk.pk",
-    images: ["https://www.P999gamepk.pk/Images/sn.webp"],
+    title: "Download W567 Game – Top Casino App in Pakistan",
+    description:
+      "Play and earn with W567 – the most trusted real-money casino app in Pakistan. Get the latest APK & start winning today!",
+    url: "https://www.w567game.cc",
+    images: ["https://www.w567game.cc/Images/w567game.webp"],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
+    title: "W567 Game – Earn Real Money | Download APK Now",
     site: "@yourtwitterhandle",
-    description: "W567  Game Download win real money apk today 2025",
-    images: ["https://www.w567game.cc/Images/sn.webp"],
+    description:
+      "W567 Game is Pakistan’s most exciting real-money casino app. Download now and start earning securely.",
+    images: ["https://www.w567game.cc/Images/w567game.webp"],
   },
   alternates: {
     canonical: "https://www.w567game.cc",
